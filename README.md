@@ -1,2 +1,2 @@
-# Biometrics
-Master Program of Biometrics -UPEC 2019
+# Speckle Noise Removal in SAR Images
+Synthetic Aperture Radar (SAR) images are usually degraded by speckle noise that appears as granules in the image. Researchers implemented different image processing algorithms for speckle noise removal that usually degrades the fine details in the image. In this work; an algorithm based on the time domain processing of SAR images is proposed for better removal of speckle noise and better presence of fine details both using MATLAB and Python. The achieved results of the algorithm were sufficient enough based on the signal to noise ratio achieved and the removal for most of the speckle noise from the image. 
