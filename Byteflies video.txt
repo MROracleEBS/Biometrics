@@ -1,0 +1,14 @@
+Byteflies video
+_______________
+Idea:-
+	Greate idea they developed platform to build wearable health solutions that can track people at home
+	
+Technical parts :-
+Diffrent types of sensors.
+Signal and digital signal processing.
+Raspberry pi and Android Things(Tansarflow).
+Need to update by every feature can be added and be usful for the patient.
+
+My point of view ,they didn't want to reinvent the wheel ,they use existing solutions existing technologies existing platforms to create a new product that puts the patient first.
+
+Because of data processing on the cloud ,Caution from using sensitive medical data is somehow wrong
