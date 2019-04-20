@@ -1,0 +1,12 @@
+Machine Learning Flowers video
+______________________________
+Idea:-
+	Simple idea just smile at the flower, and it will smile with you. Wink at the flower, and it will get shy.
+	
+Technical parts :-
+
+A lot of pieces  need to print it (3D printer).
+Face and emotion detection algorithm.
+Raspberry pi and Android Things.
+
+My point of view ,I think it's good idea for marketing fancy goods , Even though I prefer natural flowers :).
